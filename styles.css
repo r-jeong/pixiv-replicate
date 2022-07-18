@@ -1,0 +1,128 @@
+body{
+   background-image: url('images/49281286_p0.jpeg');
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+.center-block{
+    background-color: rgba(255, 255, 255, 0.92);
+    width:363px;
+    padding:40px 0 38px;
+    margin:20vh auto 30px;
+    text-align: center;
+    border-radius: 4px;
+
+
+}
+
+.signup-block{
+    margin-bottom: 30px;
+}
+.signup-logo{
+    display: inline-block;
+    
+    width:164px;
+    height:64px;
+background-image: url('images/logo.png');
+background-repeat: no-repeat;
+background-size: contain;
+margin-bottom: 12px;
+}
+
+.signup-catch{
+    text-align:center;
+    color:#757c80;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: HiraginoSans-W3, "Hiragino Kaku Gothic Pro", sans-serif;
+}
+
+.bot{
+    text-align:center;
+    color: rgba(0, 0, 0, 0.32);
+    width: 300px;
+    font-size: 12px;
+    margin:5px auto;
+    font-style: normal;
+    font-weight: normal;
+    border-top:1px solid rgba(0, 0, 0, 0.08);
+    padding-top:12px;
+    font-family: HiraginoSans-W3, "Hiragino Kaku Gothic Pro", sans-serif;;
+   
+}
+
+.priv{ text-decoration: none;
+    color:#3D7699;
+}
+.create-button, .login-button{
+    display:block;
+    border-radius:30px;
+    border-style: none;
+    width: 300px;
+    height: 40px;
+    margin: 10px auto;
+    line-height: 40px;
+    font-weight:bold;
+    font-size: 14px;
+    font-family: HiraginoSans-W3, "Hiragino Kaku Gothic Pro", sans-serif;
+    text-decoration: none;
+    
+}
+
+.create-button:hover{
+    background-color: #0375c1;
+    color: #fff
+}
+.login-button:hover{
+    background-color: rgba(0, 0, 0, 0.10);
+    color:#5C5C5C;
+}
+.create-button{
+    background-color: #0096FA;
+    color: #fff
+    
+}
+
+.login-button{
+    background-color: rgba(0, 0, 0, 0.04);
+    color:#5C5C5C;
+}
+
+.link-desc{
+    font-size:12px;
+    font-style: normal;
+    text-align: center;
+    font-family: HiraginoSans-W3, "Hiragino Kaku Gothic Pro", sans-serif;
+
+}
+.button{
+    display: inline-block;
+background-size: contain;
+background-color: ;
+background-repeat: no-repeat;
+width: 30px;
+height: 30px;
+background-color: rgba(0, 0, 0, 0.04);
+border-radius: 90px;
+border-style: none;
+margin: 10px 8px;
+
+}
+
+.apple{
+    background-image: url('images/apple.png');
+
+}
+
+.twitter{
+    background-image: url('images/twitter.png');
+}
+
+.google{
+    background-image: url('images/google.png');
+}
+
+.facebook{
+    background-image: url('images/facebook.png');
+}
